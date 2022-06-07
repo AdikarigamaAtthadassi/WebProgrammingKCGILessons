@@ -27,6 +27,7 @@ href="mailto:adikarigama58@gmail.com">adikarigama58@gmail.com
 <li>I am currently a student at KCGI</li>
 
 </p>
+
  </td>
  
     <td colspan="2">
@@ -36,6 +37,21 @@ href="mailto:adikarigama58@gmail.com">adikarigama58@gmail.com
 	
 	
     </th>
+	
+	<th scope=“col”> 
+<h2>Some of my Hobbies are,</h2>  
+<ul>
+<li>Listening to Music</li>
+<li>Travelling with friends</li>
+<li>Reading books</li>
+
+</ul>
+   </th>
+
+<td colspan="5">
+<p> I have completed my Higher Studies and currently following Masters Program at KCGI
+</p>
+
 	
 <tr>	
 	
@@ -84,6 +100,20 @@ Hyakumanben Campus<br/>Kyoto, Japan</p>
 </td>
  <tr>
 
+ <td colspan="5">
+ <ul>
+
+<p>  </p>
+
+</ul>
+
+ </td>
+ 
+    <td colspan="2">
+	
+    </td>
+	</tr>
+
 
 	</tr>   
 
@@ -93,7 +123,5 @@ Hyakumanben Campus<br/>Kyoto, Japan</p>
 
 <table border="1">
   
-
-
 </body>
 </html>
