@@ -27,7 +27,6 @@ href="mailto:adikarigama58@gmail.com">adikarigama58@gmail.com
 <li>I am currently a student at KCGI</li>
 
 </p>
-
  </td>
  
     <td colspan="2">
